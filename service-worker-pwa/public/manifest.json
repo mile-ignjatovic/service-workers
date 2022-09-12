@@ -1,0 +1,16 @@
+{
+    "short_name": "Weather app",
+    "name": "Weather app PWA",
+    "icons": [
+        {
+            "src": "./images/logo.png",
+            "type": "image/png",
+            "sizes": "1024x1024",
+            "purpose": "maskable any"
+        }
+    ],
+    "start_url": "https://admirable-heliotrope-ca7633.netlify.app/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
