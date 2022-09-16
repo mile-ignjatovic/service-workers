@@ -1,0 +1,7 @@
+.navbar a {
+  color: white;
+  padding: 8px;
+}
+.navbar a:hover {
+  color: #ddd;
+}
